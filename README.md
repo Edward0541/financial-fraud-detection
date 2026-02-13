@@ -51,5 +51,11 @@ You can download it here: https://www.kaggle.com/datasets/umitka/synthetic-finan
 
 ---
 - Test with real-world datasets to ensure robustness
+
+## Author
+**Edward Ansah** – Financial & Data Analyst  
+- Experience analyzing multi-country financial and inventory datasets  
+- Skilled in **Power BI, SQL, Excel, Python, and R**  
+- Passionate about leveraging data to generate actionable business insights  
 - Implement SHAP for explainability
 - Develop a dashboard for real-time fraud monitoring
